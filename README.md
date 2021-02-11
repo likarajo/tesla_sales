@@ -1,2 +1,2 @@
-# tesla_sales
+# Tesla Sales
 Forecast Tesla Auto Sales
